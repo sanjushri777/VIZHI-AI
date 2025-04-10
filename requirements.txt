@@ -1,0 +1,1 @@
+pip install speechrecognition pygame googlemaps geopy python-dotenv elevenlabs google-generativeai
