@@ -96,6 +96,7 @@ flutter pub get
 flutter run
 ```
 ##AI Prompt Design
+```
 Gemini AI is designed to:
 
 Respond in a friendly, ethical, and helpful tone
@@ -109,7 +110,9 @@ Handle location and navigation queries like:
 Provide general assistance in warm and simple English
 
 Avoid code or overly technical language in responses
+```
 ##Privacy and Ethics
+```
 No user data is stored permanently
 
 API key usage is secured and tokenized
@@ -117,8 +120,9 @@ API key usage is secured and tokenized
 All AI responses are monitored for fairness and clarity
 
 Designed in accordance with the JobsForHer Ethical AI principles
-
-Credits
+```
+##Credits
+```
 Developed with care by Sanjushri A,DURGADEVI P,SUBHASHINI B,ASWINI M 
 Created for the Prime project 
 
@@ -133,4 +137,5 @@ Google Maps API
 Flutter
 
 Python
+```
 
