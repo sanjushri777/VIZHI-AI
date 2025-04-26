@@ -1,4 +1,4 @@
-# Vizhi AI — Real-Time AI Navigation and Emotional Assistant for the Visually Impaired
+# EYRA ALIAS  Vizhi AI — Real-Time AI Navigation and Emotional Assistant for the Visually Impaired
 
 **Vizhi AI** is an intelligent, low-latency, neckband-based voice assistant designed to empower visually impaired individuals. It provides real-time navigation, context-aware AI conversations, and emotional assistance by integrating technologies such as Google Maps, ElevenLabs, Gemini AI, and Bluetooth-based Flutter communication.
 
